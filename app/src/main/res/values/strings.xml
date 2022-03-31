@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hitung Energi Potensial</string>
+    <string name="massa_benda">Massa (kg)</string>
+    <string name="percepatan_gravitasi">Gravitasi (m/s²)</string>
+    <string name="meter">Tinggi (m)</string>
+    <string name="energi_potensial">Energi Potensial adalah energi yang mempengaruhi benda karena posisi benda tersebut yang mana kecenderungan tersebut menuju tak terhingga dengan arah dari gaya yang ditimbulkan dari energi potensial tersebut. Satuan SI untuk mengukur usaha dan energi adalah Joule. Energi Potensial Gravitasi adalah energi potensial dari benda yang didasari atas ketinggiannya terhadap bidang datar sebagai acuannya.</string>
+    <string name="hitung">Hitung</string>
+    <string name="ep_x">Ep Gravitasi : %1$s Joule</string>
+    <string name="massa_invalid">Massa tidak boleh kosong.</string>
+    <string name="gravitasi_invalid">Gravitasi tidak boleh kosong.</string>
+    <string name="meter_invalid">Tinggi benda tidak boleh kosong.</string>
+    <string name="reset">Reset</string>
+</resources>
